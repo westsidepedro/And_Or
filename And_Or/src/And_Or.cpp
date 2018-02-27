@@ -1,16 +1,12 @@
 //============================================================================
 // Name        : And_Or.cpp
-// Author      : 
-// Version     :
-// Copyright   : 
-// Description : Hello World in C++, Ansi-style
-//============================================================================
-
-// And Or  --->   && = and
-//		  || = or
+//
+//     && = and
+//     || = or
 //				  can put () in to help read ie...
 //	( (x+y>=4) && x-y==18) || x==1			( (X-17<=8) && Y==1) && y>10
 //	|----is this true----| OR  ^ is true    	|---is this true---| AND ^ is true
+//============================================================================
 
 #include <iostream>
 using namespace std;
